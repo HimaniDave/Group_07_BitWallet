@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "602135822307",
+    "project_id": "bitwallet-71871",
+    "storage_bucket": "bitwallet-71871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602135822307:android:b4b4a786a39e98cc1eead6",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602135822307-gie078p3c62u2bgi4hvm8171k1ihduab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-TOrQRk7sa13K21yDliMrEOgVaeJ9Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602135822307-gie078p3c62u2bgi4hvm8171k1ihduab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "602135822307-kr31go641sl0b1k0dubeg6154sp294mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptoWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
